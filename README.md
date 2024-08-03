@@ -28,6 +28,15 @@ Sou uma desenvolvedor fullstack apaixonado por criar soluções web e explorar n
 
 <!-- Figma -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+
+<!-- Prisma -->
+<img src="https://img.shields.io/badge/Prisma-2D74DA?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+
+<!-- Monge db -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<!-- Postigresql -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
 </div>
 
