@@ -5,11 +5,11 @@ Sou uma desenvolvedor fullstack apaixonado por criar soluções web e explorar n
 # Formação  <img src="https://github.com/user-attachments/assets/082377b4-78c8-4a6e-b24c-c95bfb6799dc" alt="TypeScript"  width="30" />
 
 <div>
-  <img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg" alt="cubosacademy" width="150" />   
+  <a href="https://cubos.academy/"><img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg" alt="cubosacademy" width="150" /></a>
   |
-  <img src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.a329c198.svg" alt="rocketseat" width="150" />
+  <a href="https://www.rocketseat.com.br/"><img src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.a329c198.svg" alt="rocketseat" width="150" /></a>
   |
-  <img src="https://www.alura.com.br/assets/img/home/alura-logo.1720710818.svg" alt="alura" width="50" />
+  <a href="https://www.alura.com.br/"><img src="https://www.alura.com.br/assets/img/home/alura-logo.1720710818.svg" alt="alura" width="50" /></a>
 </div>
 
 ## Tecnologias que domino 💻
