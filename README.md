@@ -2,9 +2,18 @@
 
 Sou uma desenvolvedor fullstack apaixonado por criar soluções web e explorar novas tecnologias. 🚀
 
-## Tecnologias que domino 💻
+# Formação  <img src="https://github.com/user-attachments/assets/082377b4-78c8-4a6e-b24c-c95bfb6799dc" alt="TypeScript"  width="30" />
 
 <div>
+  <img src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg" alt="cubosacademy" width="150" />   
+  |
+  <img src="https://www.rocketseat.com.br/_next/static/media/rocketseat-logo.a329c198.svg" alt="rocketseat" width="150" />
+  |
+  <img src="https://www.alura.com.br/assets/img/home/alura-logo.1720710818.svg" alt="alura" width="50" />
+</div>
+
+## Tecnologias que domino 💻
+
   <!-- JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
@@ -34,8 +43,8 @@ Sou uma desenvolvedor fullstack apaixonado por criar soluções web e explorar n
 📫 Você pode me encontrar em:
 
 <a href="https://www.linkedin.com/in/claudio-soares-dev/"> <img src="https://github.com/user-attachments/assets/6d633f47-a33f-4582-9edb-3027d9edd450" alt="linkedin" width="30" /> </a>
-<a href="https://claudio-soares-fullstack.vercel.app/"> <img src="https://github.com/user-attachments/assets/56d4b7b7-14e3-491d-95a5-19a76f7e0e32" alt="linkedin" width="30" /> </a>
-<a href="https://github.com/claudioares"> <img src="https://github.com/user-attachments/assets/d86d5657-7d7f-4ebf-85c6-7cc5047898e8" alt="linkedin" width="30" /> </a>
+<a href="https://claudio-soares-fullstack.vercel.app/"> <img src="https://github.com/user-attachments/assets/56d4b7b7-14e3-491d-95a5-19a76f7e0e32" alt="homepage" width="30" /> </a>
+<a href="https://github.com/claudioares"> <img src="https://github.com/user-attachments/assets/d86d5657-7d7f-4ebf-85c6-7cc5047898e8" alt="github" width="30" /> </a>
 
 
 
